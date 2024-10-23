@@ -1,0 +1,14 @@
+@media (max-width: 1182px) {
+  .post .box {
+    width: 354px;
+    padding: 20px 20px;
+  }
+}
+
+@media (max-width: 1174px) {
+  .post .box {
+    width: 359px;
+
+    padding: 19px 16px;
+  }
+}
